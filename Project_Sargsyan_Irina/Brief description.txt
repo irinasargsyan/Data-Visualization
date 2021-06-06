@@ -1,0 +1,9 @@
+For this project, which was aimed at creating a dash, we used the data that you can find in the "olympic" zip file. 
+The data was taken from the Kaggle. You can find it in the following link: 
+https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+The dataset includes data concerning Winter and Summer Olympic Games from the year 1896 to 2016. 
+So, it doesn't include only Winter Games of 2018 and 2020, the latter as we know didn't take place because of the pandemic.
+The file athlete_events.csv contains 271116 rows and 15 columns.
+The description of the column features you can find in the link provided above.
+In folder "assets" you can find the images that were used in our dash.
+In order to get access to the dash use Project.py file.
